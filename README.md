@@ -1,1 +1,2 @@
 # high-attidute-balloon
+This is a project conducted by students from ZUT. We aim to assemble and launch a high-attitude balloon. As of October 2025, we are in the early stages of development. Plans are being created, and a general overview should be completed soon.
